@@ -1,6 +1,13 @@
 # Animated_Circle_Nav
 Its a circle navbar 
 
+# Circle Nav - Interactive Circular Navigation Menu
+
+A visually appealing and interactive circular navigation menu created using HTML, CSS, and GSAP (GreenSock Animation Platform).
+
+![Animated-Circle-Nav](https://github.com/rohitgaikwad-dev/Animated_Circle_Nav/assets/61135868/4da418d1-c51c-4179-874f-4114358a1143)
+
+
 ## Demo
 
 [Live Demo](https://animated-circle-nav-rohitgaikwad-dev.vercel.app/)
