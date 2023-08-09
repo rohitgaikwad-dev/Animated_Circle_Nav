@@ -15,3 +15,15 @@ This project showcases an interactive circular navigation menu implemented using
 - Smooth animations powered by GSAP.
 - Interactive functionality: Click on circles to navigate to different sections.
 - Easy-to-customize styling and layout.
+
+Usage
+Open the index.html file in a web browser to see the circular navigation menu in action.
+Click on the smaller circles in the circular panel to navigate to different sections.
+Contributing
+Contributions are welcome! Here are a few ways you can contribute:
+
+Report a bug or suggest improvements by creating a GitHub Issue.
+Submit a pull request with enhancements or fixes.
+License
+
+This project is licensed under the MIT License.
